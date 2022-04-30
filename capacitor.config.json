@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "crypto-graf",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crypto-graf",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
