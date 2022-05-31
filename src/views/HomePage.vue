@@ -72,28 +72,6 @@ export default defineComponent({
   methods: {
     setData() {
       console.log('btn');
-      // let a;
-      // this.dataInfo.push(1);
-      // console.log(this.dataInfo);
-      // fetch('https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD&api_key=2844b7428588d857a8cdd204e77e1f2c42f0a38c97a5e38cf731e9c6d626f0fa')
-      //   .then(response => {
-      //     // const res = JSON.parse(response);
-      //     console.log(response.json());
-      //     // response.text();
-      //   })
-        // .then (result => {
-        //   console.log(result);
-        // });
-
-        // setInterval(async() => {
-          // const f = await fetch(
-          // `https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD&api_key=2844b7428588d857a8cdd204e77e1f2c42f0a38c97a5e38cf731e9c6d626f0fa`
-          // );
-          // const data = await f.json();
-
-          // console.log(data);
-        //   // this.dataInfo.push(data);
-        // }, 10000);
     }
   },
   mounted() {
